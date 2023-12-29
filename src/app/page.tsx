@@ -19,7 +19,7 @@ export default function Home() {
 				</div>
 				<Contact />
 			</div>
-      <div className=" absolute bottom-2 right-0">
+      <div className=" absolute bottom-4 right-2">
         <button className="text-4xl p-4 bg-blue-600 text-white rounded-full">
           <BsPlusCircleFill /> 
         </button>
