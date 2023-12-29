@@ -4,7 +4,7 @@ import { BsPlusCircleFill } from "react-icons/bs";
 
 export default function Home() {
 	return (
-		<main className="m-2 transition-all duration-300 ease-in-out h-screen relative">
+		<main className="m-2 transition-all duration-300 ease-in-out h-dvh relative">
 			<nav className="my-4">
 				<Link
 					href="/"
