@@ -17,8 +17,8 @@ export default function Contact() {
 				<p className="text-lg">09033889933</p>
 			</div>
 			<div className=" flex items-center">
-				<FaPhone className="text-5xl p-3 bg-slate-200 rounded-s-2xl" />
-				<TbMessageCircle className="text-5xl p-3 bg-slate-200 rounded-e-2xl" />
+				<FaPhone className="text-5xl p-3 bg-slate-200 rounded-s-2xl active:border focus:border hover:opacity-70 border-neutral-400" />
+				<TbMessageCircle className="text-5xl p-3 bg-slate-200 rounded-e-2xl active:border focus:border hover:opacity-70 border-neutral-400" />
 			</div>
 		</div>
 	);
